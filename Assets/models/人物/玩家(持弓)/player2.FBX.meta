@@ -46,6 +46,39 @@ ModelImporter:
     100076: "\u982D\u76D4\u4E0A\u8272"
     100078: "\u9AD6\u95DC\u7BC0"
     100080: "\u9AD6\u95DC\u7BC0\u7684\u91D1\u8272"
+    100082: mixamorig:Head
+    100084: mixamorig:HeadTop_End
+    100086: mixamorig:Hips
+    100088: mixamorig:LeftArm
+    100090: mixamorig:LeftFoot
+    100092: mixamorig:LeftForeArm
+    100094: mixamorig:LeftHand
+    100096: mixamorig:LeftHandIndex1
+    100098: mixamorig:LeftHandIndex2
+    100100: mixamorig:LeftHandIndex3
+    100102: mixamorig:LeftHandIndex4
+    100104: mixamorig:LeftLeg
+    100106: mixamorig:LeftShoulder
+    100108: mixamorig:LeftToe_End
+    100110: mixamorig:LeftToeBase
+    100112: mixamorig:LeftUpLeg
+    100114: mixamorig:Neck
+    100116: mixamorig:RightArm
+    100118: mixamorig:RightFoot
+    100120: mixamorig:RightForeArm
+    100122: mixamorig:RightHand
+    100124: mixamorig:RightHandIndex1
+    100126: mixamorig:RightHandIndex2
+    100128: mixamorig:RightHandIndex3
+    100130: mixamorig:RightHandIndex4
+    100132: mixamorig:RightLeg
+    100134: mixamorig:RightShoulder
+    100136: mixamorig:RightToe_End
+    100138: mixamorig:RightToeBase
+    100140: mixamorig:RightUpLeg
+    100142: mixamorig:Spine
+    100144: mixamorig:Spine1
+    100146: mixamorig:Spine2
     400000: Box001
     400002: //RootNode
     400004: "\u524D\u8DDD\u808C\u7684\u9ED1\u8272"
@@ -87,6 +120,39 @@ ModelImporter:
     400076: "\u982D\u76D4\u4E0A\u8272"
     400078: "\u9AD6\u95DC\u7BC0"
     400080: "\u9AD6\u95DC\u7BC0\u7684\u91D1\u8272"
+    400082: mixamorig:Head
+    400084: mixamorig:HeadTop_End
+    400086: mixamorig:Hips
+    400088: mixamorig:LeftArm
+    400090: mixamorig:LeftFoot
+    400092: mixamorig:LeftForeArm
+    400094: mixamorig:LeftHand
+    400096: mixamorig:LeftHandIndex1
+    400098: mixamorig:LeftHandIndex2
+    400100: mixamorig:LeftHandIndex3
+    400102: mixamorig:LeftHandIndex4
+    400104: mixamorig:LeftLeg
+    400106: mixamorig:LeftShoulder
+    400108: mixamorig:LeftToe_End
+    400110: mixamorig:LeftToeBase
+    400112: mixamorig:LeftUpLeg
+    400114: mixamorig:Neck
+    400116: mixamorig:RightArm
+    400118: mixamorig:RightFoot
+    400120: mixamorig:RightForeArm
+    400122: mixamorig:RightHand
+    400124: mixamorig:RightHandIndex1
+    400126: mixamorig:RightHandIndex2
+    400128: mixamorig:RightHandIndex3
+    400130: mixamorig:RightHandIndex4
+    400132: mixamorig:RightLeg
+    400134: mixamorig:RightShoulder
+    400136: mixamorig:RightToe_End
+    400138: mixamorig:RightToeBase
+    400140: mixamorig:RightUpLeg
+    400142: mixamorig:Spine
+    400144: mixamorig:Spine1
+    400146: mixamorig:Spine2
     2100000: "\u9774\u5B50"
     2100002: 08 - Default
     2100004: "\u5916\u5957"
@@ -213,7 +279,48 @@ ModelImporter:
     4300074: "\u624B\u8155\u7684\u9ED1\u8272"
     4300076: "\u624B\u8155\u7684\u91D1\u8272"
     4300078: "\u8B77\u624B\u7684\u91D1\u8272"
+    7400000: mixamo.com
     9500000: //RootNode
+    13700000: Box001
+    13700002: "\u524D\u8DDD\u808C\u7684\u9ED1\u8272"
+    13700004: "\u53E3"
+    13700006: "\u624B\u8155\u7684\u91D1\u8272"
+    13700008: "\u624B\u8155\u7684\u9ED1\u8272"
+    13700010: "\u7259\u9F52"
+    13700012: "\u773C\u775B"
+    13700014: "\u80B1\u7532"
+    13700016: "\u80B1\u9AA8\u7684\u91D1\u8272"
+    13700018: "\u80B1\u9AA8\u7684\u9ED1\u8272"
+    13700020: "\u80CC\u7532"
+    13700022: "\u80CC\u7532\u91D1\u8272\u7684"
+    13700024: "\u80CC\u7532\u9ED1\u8272"
+    13700026: "\u80F8\u7532"
+    13700028: "\u80F8\u7532\u91D1\u8272\u7684"
+    13700030: "\u80F8\u7532\u9ED1\u8272\u7684"
+    13700032: "\u8155\u7532"
+    13700034: "\u8170\u7532"
+    13700036: "\u8173"
+    13700038: "\u8173\u7684\u9ED1\u8272"
+    13700040: "\u8179\u7532"
+    13700042: "\u8179\u7532\u7684\u9ED1\u8272"
+    13700044: "\u817F\u7532\u7684\u91D1\u8272"
+    13700046: "\u81C9"
+    13700048: "\u81C9\u7684\u9ED1\u8272"
+    13700050: "\u88F8\u8EAB"
+    13700052: "\u8932\u5B50"
+    13700054: "\u8981\u4E0A\u91D1\u8272\u7684"
+    13700056: "\u8B77\u5678\u7684\u9ED1\u8272"
+    13700058: "\u8B77\u624B"
+    13700060: "\u8B77\u624B\u7684\u91D1\u8272"
+    13700062: "\u91D1\u8272\u8B77\u984D"
+    13700064: "\u9396\u9AA8\u7684"
+    13700066: "\u9396\u9AA8\u7684\u9ED1\u8272"
+    13700068: "\u9396\u9AA8\u91D1\u8272\u7684"
+    13700070: "\u9762\u5177"
+    13700072: "\u982D\u76D4"
+    13700074: "\u982D\u76D4\u4E0A\u8272"
+    13700076: "\u9AD6\u95DC\u7BC0"
+    13700078: "\u9AD6\u95DC\u7BC0\u7684\u91D1\u8272"
   externalObjects: {}
   materials:
     importMaterials: 1
