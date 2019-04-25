@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 45e11fa03456ba74a8a0f464fc33d736
+timeCreated: 1556174275
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger01
+    100016: Bip001 L Finger0Nub
+    100018: Bip001 L Finger1
+    100020: Bip001 L Finger11
+    100022: Bip001 L Finger1Nub
+    100024: Bip001 L Finger2
+    100026: Bip001 L Finger21
+    100028: Bip001 L Finger2Nub
+    100030: Bip001 L Foot
+    100032: Bip001 L Forearm
+    100034: Bip001 L Hand
+    100036: Bip001 L Thigh
+    100038: Bip001 L Toe0
+    100040: Bip001 L Toe0Nub
+    100042: Bip001 L UpperArm
+    100044: Bip001 Neck
+    100046: Bip001 Pelvis
+    100048: Bip001 Ponytail1
+    100050: Bip001 Ponytail11
+    100052: Bip001 Ponytail12
+    100054: Bip001 Ponytail13
+    100056: Bip001 Ponytail1Nub
+    100058: Bip001 R Calf
+    100060: Bip001 R Clavicle
+    100062: Bip001 R Finger0
+    100064: Bip001 R Finger01
+    100066: Bip001 R Finger0Nub
+    100068: Bip001 R Finger1
+    100070: Bip001 R Finger11
+    100072: Bip001 R Finger1Nub
+    100074: Bip001 R Finger2
+    100076: Bip001 R Finger21
+    100078: Bip001 R Finger2Nub
+    100080: Bip001 R Foot
+    100082: Bip001 R Forearm
+    100084: Bip001 R Hand
+    100086: Bip001 R Thigh
+    100088: Bip001 R Toe0
+    100090: Bip001 R Toe0Nub
+    100092: Bip001 R UpperArm
+    100094: Bip001 Spine
+    100096: Bip001 Spine1
+    100098: Bip001 Spine2
+    100100: Bip001 Spine3
+    100102: Box004
+    100104: Box007
+    100106: Object001
+    100108: "\u5074\u8863"
+    100110: "\u5074\u8863\u908A"
+    100112: "\u53F3\u624B"
+    100114: "\u53F3\u624B\u624B\u5957"
+    100116: "\u53F3\u80A9\u7532"
+    100118: "\u53F3\u80A9\u7532\u4E0A\u8272"
+    100120: "\u53F3\u80A9\u7532\u62AB\u98A8"
+    100122: "\u5BF6\u77F3"
+    100124: "\u5BF6\u77F3\u4E0A\u8272"
+    100126: "\u5DE6\u80A9\u7532"
+    100128: "\u5DE6\u80A9\u7532\u4E0A\u8272"
+    100130: "\u5DE6\u80A9\u7532\u62AB\u98A8"
+    100132: "\u624B\u5957\u4E0A\u8272"
+    100134: "\u624B\u8155"
+    100136: "\u62AB\u98A8"
+    100138: "\u6597\u7BF7"
+    100140: "\u76AE\u5E36"
+    100142: "\u76AE\u5E36\u6263\u74B0"
+    100144: "\u76AE\u5E36\u6263\u74B0 1"
+    100146: "\u773C\u775B"
+    100148: "\u80CC\u5F8C\u7684\u5FBD\u7AE0"
+    100150: "\u80CC\u7532"
+    100152: "\u80CC\u7532001"
+    100154: "\u80CC\u7AE0\u4E0A\u8272"
+    100156: "\u80F8\u7532"
+    100158: "\u80F8\u7532\u4E0A\u8272"
+    100160: "\u8170\u7532"
+    100162: "\u8179\u7532"
+    100164: "\u8179\u7532\u4E0A\u8272"
+    100166: "\u817F\u7532\u4E0A\u8272"
+    100168: "\u8896\u5B50"
+    100170: "\u88F8\u8EAB"
+    100172: "\u8932\u5B50"
+    100174: "\u8EAB\u9AD4"
+    100176: "\u9583\u96FB\u80FD\u91CF"
+    100178: "\u9762\u5177"
+    100180: "\u9762\u5177\u4E0A\u8272"
+    100182: "\u9774\u5B50"
+    100184: "\u982D"
+    100186: "\u982D\u9AEE"
+    100188: "\u982D\u9AEE001"
+    100190: //RootNode
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger01
+    400016: Bip001 L Finger0Nub
+    400018: Bip001 L Finger1
+    400020: Bip001 L Finger11
+    400022: Bip001 L Finger1Nub
+    400024: Bip001 L Finger2
+    400026: Bip001 L Finger21
+    400028: Bip001 L Finger2Nub
+    400030: Bip001 L Foot
+    400032: Bip001 L Forearm
+    400034: Bip001 L Hand
+    400036: Bip001 L Thigh
+    400038: Bip001 L Toe0
+    400040: Bip001 L Toe0Nub
+    400042: Bip001 L UpperArm
+    400044: Bip001 Neck
+    400046: Bip001 Pelvis
+    400048: Bip001 Ponytail1
+    400050: Bip001 Ponytail11
+    400052: Bip001 Ponytail12
+    400054: Bip001 Ponytail13
+    400056: Bip001 Ponytail1Nub
+    400058: Bip001 R Calf
+    400060: Bip001 R Clavicle
+    400062: Bip001 R Finger0
+    400064: Bip001 R Finger01
+    400066: Bip001 R Finger0Nub
+    400068: Bip001 R Finger1
+    400070: Bip001 R Finger11
+    400072: Bip001 R Finger1Nub
+    400074: Bip001 R Finger2
+    400076: Bip001 R Finger21
+    400078: Bip001 R Finger2Nub
+    400080: Bip001 R Foot
+    400082: Bip001 R Forearm
+    400084: Bip001 R Hand
+    400086: Bip001 R Thigh
+    400088: Bip001 R Toe0
+    400090: Bip001 R Toe0Nub
+    400092: Bip001 R UpperArm
+    400094: Bip001 Spine
+    400096: Bip001 Spine1
+    400098: Bip001 Spine2
+    400100: Bip001 Spine3
+    400102: Box004
+    400104: Box007
+    400106: Object001
+    400108: "\u5074\u8863"
+    400110: "\u5074\u8863\u908A"
+    400112: "\u53F3\u624B"
+    400114: "\u53F3\u624B\u624B\u5957"
+    400116: "\u53F3\u80A9\u7532"
+    400118: "\u53F3\u80A9\u7532\u4E0A\u8272"
+    400120: "\u53F3\u80A9\u7532\u62AB\u98A8"
+    400122: "\u5BF6\u77F3"
+    400124: "\u5BF6\u77F3\u4E0A\u8272"
+    400126: "\u5DE6\u80A9\u7532"
+    400128: "\u5DE6\u80A9\u7532\u4E0A\u8272"
+    400130: "\u5DE6\u80A9\u7532\u62AB\u98A8"
+    400132: "\u624B\u5957\u4E0A\u8272"
+    400134: "\u624B\u8155"
+    400136: "\u62AB\u98A8"
+    400138: "\u6597\u7BF7"
+    400140: "\u76AE\u5E36"
+    400142: "\u76AE\u5E36\u6263\u74B0"
+    400144: "\u76AE\u5E36\u6263\u74B0 1"
+    400146: "\u773C\u775B"
+    400148: "\u80CC\u5F8C\u7684\u5FBD\u7AE0"
+    400150: "\u80CC\u7532"
+    400152: "\u80CC\u7532001"
+    400154: "\u80CC\u7AE0\u4E0A\u8272"
+    400156: "\u80F8\u7532"
+    400158: "\u80F8\u7532\u4E0A\u8272"
+    400160: "\u8170\u7532"
+    400162: "\u8179\u7532"
+    400164: "\u8179\u7532\u4E0A\u8272"
+    400166: "\u817F\u7532\u4E0A\u8272"
+    400168: "\u8896\u5B50"
+    400170: "\u88F8\u8EAB"
+    400172: "\u8932\u5B50"
+    400174: "\u8EAB\u9AD4"
+    400176: "\u9583\u96FB\u80FD\u91CF"
+    400178: "\u9762\u5177"
+    400180: "\u9762\u5177\u4E0A\u8272"
+    400182: "\u9774\u5B50"
+    400184: "\u982D"
+    400186: "\u982D\u9AEE"
+    400188: "\u982D\u9AEE001"
+    400190: //RootNode
+    2100000: 19 - Default
+    2100002: 13 - Default
+    2100004: "\u5916\u5957"
+    2100006: 15 - Default
+    2100008: "\u9774\u5B50"
+    2100010: "\u8932\u5B50"
+    2100012: 20 - Default
+    2100014: 08 - Default
+    2100016: 09 - Default
+    2100018: 14 - Default
+    4300000: "\u88F8\u8EAB"
+    4300002: "\u982D\u9AEE"
+    4300004: "\u982D\u9AEE001"
+    4300006: "\u982D"
+    4300008: "\u80F8\u7532"
+    4300010: "\u8EAB\u9AD4"
+    4300012: "\u6597\u7BF7"
+    4300014: "\u9762\u5177"
+    4300016: "\u8179\u7532"
+    4300018: "\u80CC\u7532"
+    4300020: "\u5BF6\u77F3"
+    4300022: "\u8170\u7532"
+    4300024: "\u773C\u775B"
+    4300026: "\u8896\u5B50"
+    4300028: "\u5074\u8863"
+    4300030: "\u5074\u8863\u908A"
+    4300032: "\u76AE\u5E36"
+    4300034: "\u8932\u5B50"
+    4300036: "\u9774\u5B50"
+    4300038: "\u624B\u8155"
+    4300040: Box004
+    4300042: Box007
+    4300044: "\u76AE\u5E36\u6263\u74B0"
+    4300046: "\u5DE6\u80A9\u7532"
+    4300048: "\u5DE6\u80A9\u7532\u62AB\u98A8"
+    4300050: "\u53F3\u80A9\u7532"
+    4300052: "\u53F3\u80A9\u7532\u62AB\u98A8"
+    4300054: "\u62AB\u98A8"
+    4300056: "\u9583\u96FB\u80FD\u91CF"
+    4300058: "\u53F3\u624B"
+    4300060: "\u53F3\u624B\u624B\u5957"
+    4300062: "\u624B\u5957\u4E0A\u8272"
+    4300064: "\u80F8\u7532\u4E0A\u8272"
+    4300066: "\u8179\u7532\u4E0A\u8272"
+    4300068: Object001
+    4300070: "\u80CC\u7532001"
+    4300072: "\u53F3\u80A9\u7532\u4E0A\u8272"
+    4300074: "\u5DE6\u80A9\u7532\u4E0A\u8272"
+    4300076: "\u817F\u7532\u4E0A\u8272"
+    4300078: "\u5BF6\u77F3\u4E0A\u8272"
+    4300080: "\u9762\u5177\u4E0A\u8272"
+    4300082: "\u80CC\u5F8C\u7684\u5FBD\u7AE0"
+    4300084: "\u80CC\u7AE0\u4E0A\u8272"
+    7400000: "\u9858\u6B98\u6953\u6597\u7BF7\u6230\u88DD(\u6B0A\u91CD)"
+    9500000: //RootNode
+    13700000: Box004
+    13700002: Box007
+    13700004: Object001
+    13700006: "\u5074\u8863"
+    13700008: "\u5074\u8863\u908A"
+    13700010: "\u53F3\u624B"
+    13700012: "\u53F3\u624B\u624B\u5957"
+    13700014: "\u53F3\u80A9\u7532"
+    13700016: "\u53F3\u80A9\u7532\u4E0A\u8272"
+    13700018: "\u53F3\u80A9\u7532\u62AB\u98A8"
+    13700020: "\u5BF6\u77F3"
+    13700022: "\u5BF6\u77F3\u4E0A\u8272"
+    13700024: "\u5DE6\u80A9\u7532"
+    13700026: "\u5DE6\u80A9\u7532\u4E0A\u8272"
+    13700028: "\u5DE6\u80A9\u7532\u62AB\u98A8"
+    13700030: "\u624B\u5957\u4E0A\u8272"
+    13700032: "\u624B\u8155"
+    13700034: "\u62AB\u98A8"
+    13700036: "\u6597\u7BF7"
+    13700038: "\u76AE\u5E36"
+    13700040: "\u76AE\u5E36\u6263\u74B0 1"
+    13700042: "\u773C\u775B"
+    13700044: "\u80CC\u5F8C\u7684\u5FBD\u7AE0"
+    13700046: "\u80CC\u7532"
+    13700048: "\u80CC\u7532001"
+    13700050: "\u80CC\u7AE0\u4E0A\u8272"
+    13700052: "\u80F8\u7532"
+    13700054: "\u80F8\u7532\u4E0A\u8272"
+    13700056: "\u8170\u7532"
+    13700058: "\u8179\u7532"
+    13700060: "\u8179\u7532\u4E0A\u8272"
+    13700062: "\u817F\u7532\u4E0A\u8272"
+    13700064: "\u8896\u5B50"
+    13700066: "\u88F8\u8EAB"
+    13700068: "\u8932\u5B50"
+    13700070: "\u8EAB\u9AD4"
+    13700072: "\u9583\u96FB\u80FD\u91CF"
+    13700074: "\u9762\u5177"
+    13700076: "\u9762\u5177\u4E0A\u8272"
+    13700078: "\u9774\u5B50"
+    13700080: "\u982D"
+    13700082: "\u982D\u9AEE"
+    13700084: "\u982D\u9AEE001"
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
